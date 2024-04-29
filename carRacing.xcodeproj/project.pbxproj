@@ -19,6 +19,7 @@
 		358C573D2BE01DF800F2EFAC /* raceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358C573C2BE01DF800F2EFAC /* raceView.swift */; };
 		358C573F2BE024DA00F2EFAC /* assetsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358C573E2BE024DA00F2EFAC /* assetsModel.swift */; };
 		358C57422BE0285700F2EFAC /* cardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358C57412BE0285700F2EFAC /* cardView.swift */; };
+		358C57482BE0395D00F2EFAC /* raceViewVersion2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358C57472BE0395D00F2EFAC /* raceViewVersion2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		358C573C2BE01DF800F2EFAC /* raceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = raceView.swift; sourceTree = "<group>"; };
 		358C573E2BE024DA00F2EFAC /* assetsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assetsModel.swift; sourceTree = "<group>"; };
 		358C57412BE0285700F2EFAC /* cardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardView.swift; sourceTree = "<group>"; };
+		358C57472BE0395D00F2EFAC /* raceViewVersion2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = raceViewVersion2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				358C573A2BE0148E00F2EFAC /* garageView.swift */,
 				358C57412BE0285700F2EFAC /* cardView.swift */,
 				358C573C2BE01DF800F2EFAC /* raceView.swift */,
+				358C57472BE0395D00F2EFAC /* raceViewVersion2.swift */,
 				358C57352BDFE44A00F2EFAC /* licenseView.swift */,
 				358C57402BE0265A00F2EFAC /* Model */,
 				358C570F2BDFDD4500F2EFAC /* Assets.xcassets */,
@@ -287,6 +290,7 @@
 				358C570C2BDFDD4400F2EFAC /* carRacingApp.swift in Sources */,
 				358C573F2BE024DA00F2EFAC /* assetsModel.swift in Sources */,
 				358C57362BDFE44A00F2EFAC /* licenseView.swift in Sources */,
+				358C57482BE0395D00F2EFAC /* raceViewVersion2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

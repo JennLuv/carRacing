@@ -56,7 +56,7 @@ struct garageView: View {
                     Spacer()
                     
                     NavigationLink {
-                        raceView()
+                        raceViewVersion2()
                             .navigationBarBackButtonHidden(true)
                     } label: {
                         Text("Race")
